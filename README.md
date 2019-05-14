@@ -10,6 +10,9 @@ It's the list with popular deep learning models related to classification and se
 - VGG/BN-VGG (['Very Deep Convolutional Networks for Large-Scale Image Recognition'](https://arxiv.org/abs/1409.1556)) [2014]
 - ResNet (['Deep Residual Learning for Image Recognition'](https://arxiv.org/abs/1512.03385)) [2015]
 - InceptionV3 (['Rethinking the Inception Architecture for Computer Vision'](https://arxiv.org/abs/1512.00567)) [2015]
+- InceptionV2 ([Batch Normalization: Accelerating Deep Network Training b
+y Reducing Internal Covariate Shift'](https://arxiv.org/pdf/1502.03167.pdf)) [2015]
+https://arxiv.org/pdf/1502.03167.pdf
 - PreResNet (['Identity Mappings in Deep Residual Networks'](https://arxiv.org/abs/1603.05027)) [2016]
 - DenseNet (['Densely Connected Convolutional Networks'](https://arxiv.org/abs/1608.06993)) [2016]
 - PyramidNet (['Deep Pyramidal Residual Networks'](https://arxiv.org/abs/1610.02915)) [2016]
